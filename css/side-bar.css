@@ -1,0 +1,62 @@
+.side-bar
+{
+    
+    
+    position:fixed;
+    top:70px;
+    bottom:0;
+    left:0;
+    width:80px;
+    margin-left: 3px;
+    
+    
+
+}
+.home-icon
+{
+   
+    height:25px;
+    margin-bottom: 5px;
+    
+}
+.shorts-icon
+{
+    height:25px;
+    margin-bottom: 5px;
+    
+}
+
+.subscription-icon
+{
+    height:25px;
+    margin-bottom: 5px;
+    
+}
+
+.you-icon
+{
+    height:25px;
+    margin-bottom: 5px;
+    
+}
+.font-size
+{
+    font-size: 10px;
+    
+}
+.bar-div
+{
+    
+height: 70px;
+
+display:flex;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+}
+.bar-div:hover
+{
+    background-color: rgb(230, 229, 229);
+    border-radius: 4px;;
+    cursor: pointer;
+}
